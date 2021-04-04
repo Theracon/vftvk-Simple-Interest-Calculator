@@ -18,6 +18,6 @@ function compute() {
         <p>If you deposit <span>${p}</span>,</p>
         <p>at an interest of <span>${r}%</span>,</p>
         <p>you will receive an amount of <span>${i}</span>,</p>
-        <p>in the year <span>${yearToMature}.</span></p>
+        <p>in the year <span>${yearToMature}</span></p>
     `;
 }
